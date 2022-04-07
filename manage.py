@@ -26,3 +26,4 @@ if __name__ == '__main__':
 
 # py manage.py runserver
 # py manage.py migrate
+# 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
