@@ -4,6 +4,9 @@ import os
 import sys
 
 
+print("Hello World")
+
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'web.settings')
@@ -20,3 +23,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# py manage.py runserver
+# py manage.py migrate
