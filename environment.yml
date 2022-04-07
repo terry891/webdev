@@ -1,0 +1,10 @@
+name: webdev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - django==4.0.3
+
+# conda env create --file environment.yml
+# conda activate webdev
