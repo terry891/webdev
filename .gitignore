@@ -30,3 +30,6 @@ yarn-error.log*
 .env.build
 
 .vercel
+
+#VS Code
+webdev.code-workspace
